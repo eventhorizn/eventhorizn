@@ -6,6 +6,7 @@ I work at a company called Waystar and develop a health insurance patient paymen
 
 Throughout my career, I've usually stuck with .net, but I've hit the full stack
   1. Back-end with sql server
+     - A bit with MongoDB
   1. Data layer coding with Entity Framework
      - I usually develop my own back-end layer
   1. Services
