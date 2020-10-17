@@ -30,6 +30,7 @@ Ultimately, I like software because there's just so much to do and learn
 ## TODO
 
 1. [C# Mocking Library Scratch](https://www.youtube.com/watch?v=9kEURoqHKZ0)
+1. [CI/CD Azure DevOps Pipelines, TestProject OpenSDK](https://www.youtube.com/watch?v=xLPh-Be266k)
 1. [F#](https://docs.microsoft.com/en-us/dotnet/fsharp/tour)
 1. [Game Development .Net](https://devblogs.microsoft.com/dotnet/game-development-with-net/)
 1. [MongoDB Unit Tests Real DB](https://log.havrlant.cz/unit-test-database)
