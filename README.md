@@ -26,3 +26,8 @@ Outside of .net I find myself interested in probably too many things
 1. Database development
 
 Ultimately, I like software because there's just so much to do and learn
+
+## TODO
+
+1. [F#](https://docs.microsoft.com/en-us/dotnet/fsharp/tour)
+1. [Game Development .Net](https://devblogs.microsoft.com/dotnet/game-development-with-net/)
