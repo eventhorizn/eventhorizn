@@ -29,6 +29,8 @@ Ultimately, I like software because there's just so much to do and learn
 
 ## TODO
 
+1. [Blazor Secret Santa](https://learn.vonage.com/blog/2020/12/18/build-a-secret-santa-app-with-blazor)
+1. [Javascript Simple Chess AI](https://dev.to/zeyu2001/build-a-simple-chess-ai-in-javascript-18eg)
 1. [C# Mocking Library Scratch](https://www.youtube.com/watch?v=9kEURoqHKZ0)
 1. [CI/CD Azure DevOps Pipelines, TestProject OpenSDK](https://www.youtube.com/watch?v=xLPh-Be266k)
 1. [F#](https://docs.microsoft.com/en-us/dotnet/fsharp/tour)
