@@ -53,6 +53,7 @@ I work at a company called Waystar and develop a health insurance patient paymen
 
 ## TODO
 
+1. Postman Bootcamp
 1. [Secret Santa App Blazor](https://learn.vonage.com/blog/2020/12/18/build-a-secret-santa-app-with-blazor)
 1. [Simple REST API in PHP](https://dev.to/shahbaz17/build-a-simple-rest-api-in-php-2edl)
 1. [Javascript Simple Chess AI](https://dev.to/zeyu2001/build-a-simple-chess-ai-in-javascript-18eg)
