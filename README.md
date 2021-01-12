@@ -54,14 +54,13 @@ I work at a company called Waystar and develop a health insurance patient paymen
 ## TODO
 
 1. Postman Bootcamp
-1. [Secret Santa App Blazor](https://learn.vonage.com/blog/2020/12/18/build-a-secret-santa-app-with-blazor)
+1. [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
+1. [To-Do List App in Rust](https://www.freecodecamp.org/news/how-to-build-a-to-do-app-with-rust/)
+1. [Learn Rust Simple Game](https://opensource.com/article/20/12/learn-rust)
+1. [Full Stack App NextJS and Firestore DB](https://blog.logrocket.com/building-a-fullstack-application-with-next-js-and-firestore-db/)
 1. [Simple REST API in PHP](https://dev.to/shahbaz17/build-a-simple-rest-api-in-php-2edl)
 1. [Javascript Simple Chess AI](https://dev.to/zeyu2001/build-a-simple-chess-ai-in-javascript-18eg)
 1. [C# Mocking Library Scratch](https://www.youtube.com/watch?v=9kEURoqHKZ0)
-1. [CI/CD Azure DevOps Pipelines, TestProject OpenSDK](https://www.youtube.com/watch?v=xLPh-Be266k)
-1. [Game Development .Net](https://devblogs.microsoft.com/dotnet/game-development-with-net/)
 1. [MongoDB Unit Tests Real DB](https://log.havrlant.cz/unit-test-database)
-1. [Learn Rust Simple Game](https://opensource.com/article/20/12/learn-rust)
 1. [Side Nav Bar in React](https://medium.com/swlh/how-to-make-a-side-navigation-bar-in-reactjs-c90747f3410c)
 1. [SubContracting as Web Developer](https://www.youtube.com/watch?v=rpVk_raHzn8)
-1. [List Fun Projects](https://medium.com/better-programming/a-list-of-fun-projects-you-can-build-as-a-developer-be8e56f1748c)
