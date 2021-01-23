@@ -59,7 +59,6 @@ I work at a company called Waystar and develop a health insurance patient paymen
 ## TODO
 
 1. List of Dev Subscriptions
-1. Postman Bootcamp
 1. [Laravel (PHP) Guestbook](https://scotch.io/tutorials/build-a-guestbook-with-laravel-and-vuejs)
 1. [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
 1. [To-Do List App in Rust](https://www.freecodecamp.org/news/how-to-build-a-to-do-app-with-rust/)
@@ -67,6 +66,4 @@ I work at a company called Waystar and develop a health insurance patient paymen
 1. [Full Stack App NextJS and Firestore DB](https://blog.logrocket.com/building-a-fullstack-application-with-next-js-and-firestore-db/)
 1. [Javascript Simple Chess AI](https://dev.to/zeyu2001/build-a-simple-chess-ai-in-javascript-18eg)
 1. [C# Mocking Library Scratch](https://www.youtube.com/watch?v=9kEURoqHKZ0)
-1. [MongoDB Unit Tests Real DB](https://log.havrlant.cz/unit-test-database)
-1. [Side Nav Bar in React](https://medium.com/swlh/how-to-make-a-side-navigation-bar-in-reactjs-c90747f3410c)
 1. [SubContracting as Web Developer](https://www.youtube.com/watch?v=rpVk_raHzn8)
