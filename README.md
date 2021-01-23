@@ -58,6 +58,7 @@ I work at a company called Waystar and develop a health insurance patient paymen
 
 ## TODO
 
+1. List of Dev Subscriptions
 1. Postman Bootcamp
 1. [Laravel (PHP) Guestbook](https://scotch.io/tutorials/build-a-guestbook-with-laravel-and-vuejs)
 1. [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
