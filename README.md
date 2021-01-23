@@ -42,6 +42,11 @@ I work at a company called Waystar and develop a health insurance patient paymen
 1. [PHP](https://github.com/eventhorizn/spotify-clone)
 1. [Blazor](https://github.com/eventhorizn/blazor-bootcamp)
 
+### PHP
+
+1. [Simple API](https://github.com/eventhorizn/php-simple-api)
+1. [Spotify Clone](https://github.com/eventhorizn/spotify-clone)
+
 ### Database
 
 1. [MongoDB](https://github.com/eventhorizn/mongo-db-bootcamp)
@@ -59,7 +64,6 @@ I work at a company called Waystar and develop a health insurance patient paymen
 1. [To-Do List App in Rust](https://www.freecodecamp.org/news/how-to-build-a-to-do-app-with-rust/)
 1. [Learn Rust Simple Game](https://opensource.com/article/20/12/learn-rust)
 1. [Full Stack App NextJS and Firestore DB](https://blog.logrocket.com/building-a-fullstack-application-with-next-js-and-firestore-db/)
-1. [Simple REST API in PHP](https://dev.to/shahbaz17/build-a-simple-rest-api-in-php-2edl)
 1. [Javascript Simple Chess AI](https://dev.to/zeyu2001/build-a-simple-chess-ai-in-javascript-18eg)
 1. [C# Mocking Library Scratch](https://www.youtube.com/watch?v=9kEURoqHKZ0)
 1. [MongoDB Unit Tests Real DB](https://log.havrlant.cz/unit-test-database)
