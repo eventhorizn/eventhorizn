@@ -67,3 +67,15 @@ I work at a company called Waystar and develop a health insurance patient paymen
 1. [Javascript Simple Chess AI](https://dev.to/zeyu2001/build-a-simple-chess-ai-in-javascript-18eg)
 1. [C# Mocking Library Scratch](https://www.youtube.com/watch?v=9kEURoqHKZ0)
 1. [SubContracting as Web Developer](https://www.youtube.com/watch?v=rpVk_raHzn8)
+
+## Developer Subscriptions
+
+1. [dev.to](https://dev.to/)
+1. [SendGrid](https://sendgrid.com/)
+   - Emails
+1. [DigitalOcean](https://www.digitalocean.com/)
+   - Hosting
+1. [Netlify](https://www.netlify.com/)
+   - Jamstack
+1. [Packagist](https://packagist.org/)
+   - PHP Packages
