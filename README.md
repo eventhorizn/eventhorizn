@@ -10,6 +10,8 @@ I work at a company called Waystar and develop a health insurance patient paymen
 1. Database Development
    - Sql Server
    - Db2
+   - MySql
+   - MongoDB
 1. Data layer coding with Entity Framework
    - I usually develop my own back-end layer
 1. Services
@@ -19,6 +21,7 @@ I work at a company called Waystar and develop a health insurance patient paymen
 1. Web development
    - Razor, ASP.net, Blazor
    - JavaScript, CSS, HTML
+   - PHP
   
 ## Personal Development
 
