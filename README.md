@@ -29,6 +29,7 @@ I work at a company called Waystar and develop a health insurance patient paymen
 
 1. [Spotify Clone](https://github.com/eventhorizn/spotify-clone)
    - PHP
+   - [Deployed App](https://slotify.garyhake.dev/)
 1. [IMDB Clone](https://github.com/eventhorizn/blazor-movies-devops)
    - Blazor
 1. [Recipe Search](https://github.com/eventhorizn/forkify)
@@ -47,6 +48,9 @@ I work at a company called Waystar and develop a health insurance patient paymen
 
 1. [Simple API](https://github.com/eventhorizn/php-simple-api)
 1. [Spotify Clone](https://github.com/eventhorizn/spotify-clone)
+   - [Deployed App](https://slotify.garyhake.dev/)
+1. [Task App (CodeIgniter)](https://github.com/eventhorizn/php-codeiginter-taskapp)
+   - [Deployed App](https://taskapp.garyhake.dev/)
 
 ### Database
 
