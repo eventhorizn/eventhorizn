@@ -7,6 +7,14 @@ I work at a company called Waystar and develop a health insurance patient paymen
 ## Professional Skills
 
 1. c# and vb .net
+1. Web development
+   - Razor, ASP.net, Blazor
+   - JavaScript, CSS, HTML
+   - PHP
+1. Services
+   - WCF, web api (REST), soap
+1. Fat client apps
+   - WinForm, WPF
 1. Database Development
    - Sql Server
    - Db2
@@ -14,14 +22,6 @@ I work at a company called Waystar and develop a health insurance patient paymen
    - MongoDB
 1. Data layer coding with Entity Framework
    - I usually develop my own back-end layer
-1. Services
-   - WCF, web api, soap
-1. Fat client apps
-   - WinForm, WPF
-1. Web development
-   - Razor, ASP.net, Blazor
-   - JavaScript, CSS, HTML
-   - PHP
   
 ## Personal Development
 
@@ -41,6 +41,7 @@ I work at a company called Waystar and develop a health insurance patient paymen
 
 1. [JavaScript](https://github.com/eventhorizn/javascript-bootcamp)
 1. [TypeScript](https://github.com/eventhorizn/typescript-bootcamp)
+1. [Node JS](https://github.com/eventhorizn/node-js-bootcamp)
 1. [PHP](https://github.com/eventhorizn/spotify-clone)
 1. [Blazor](https://github.com/eventhorizn/blazor-bootcamp)
 
@@ -56,10 +57,11 @@ I work at a company called Waystar and develop a health insurance patient paymen
 
 1. [MongoDB](https://github.com/eventhorizn/mongo-db-bootcamp)
 
-### Python
+### Functional
 
 1. [Python Bootcamp](https://github.com/eventhorizn/python-bootcamp)
-1. [Machine Learning](https://github.com/eventhorizn/python-data-sci-ml-bootcamp)
+1. [Machine Learning Python](https://github.com/eventhorizn/python-data-sci-ml-bootcamp)
+1. [F#](https://github.com/eventhorizn/f-sharp-bootcamp)
 
 ## TODO
 
