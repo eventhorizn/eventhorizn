@@ -67,6 +67,7 @@ I work at a company called Waystar and develop a health insurance patient paymen
 
 1. [.Net 5 REST API](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio)
 1. [PHP And Docker](https://www.sitepoint.com/docker-php-development-environment/)
+1. Create DO Droplet for .net stack (.net apis and blazor)
 1. [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
 1. [To-Do List App in Rust](https://www.freecodecamp.org/news/how-to-build-a-to-do-app-with-rust/)
 1. [Learn Rust Simple Game](https://opensource.com/article/20/12/learn-rust)
