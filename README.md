@@ -34,7 +34,7 @@ I work at a company called Waystar and develop a health insurance patient paymen
    - Blazor
 1. [Recipe Search](https://github.com/eventhorizn/forkify)
    - JavaScript
-   - [Deployed App](https://forkify-gary-ci.netlify.app/)
+   - [Deployed App](https://forkify.garyhake.dev/)
 1. [General Projects](https://github.com/eventhorizn/projects)
 
 ### Web Development
