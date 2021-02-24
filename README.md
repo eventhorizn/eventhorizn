@@ -27,15 +27,17 @@ I work at a company called Waystar and develop a health insurance patient paymen
 
 ### Projects
 
-1. [Spotify Clone](https://github.com/eventhorizn/spotify-clone)
+1. [Portfolio](https://github.com/eventhorizn/portfolio)
+   - JavaScript
+3. [Spotify Clone](https://github.com/eventhorizn/spotify-clone)
    - PHP
    - [Deployed App](https://slotify.garyhake.dev/)
-1. [IMDB Clone](https://github.com/eventhorizn/blazor-movies-devops)
+4. [IMDB Clone](https://github.com/eventhorizn/blazor-movies-devops)
    - Blazor
-1. [Recipe Search](https://github.com/eventhorizn/forkify)
+5. [Recipe Search](https://github.com/eventhorizn/forkify)
    - JavaScript
    - [Deployed App](https://forkify.garyhake.dev/)
-1. [General Projects](https://github.com/eventhorizn/projects)
+6. [General Projects](https://github.com/eventhorizn/projects)
 
 ### Web Development
 
@@ -87,3 +89,8 @@ I work at a company called Waystar and develop a health insurance patient paymen
    - Jamstack
 1. [Packagist](https://packagist.org/)
    - PHP Packages
+1. [TravisCI](https://travis-ci.com/)
+   - CI/CD
+1. [DockerHub](https://hub.docker.com/)
+   - Docker Image Storage
+1. [AWS](https://aws.amazon.com/)
