@@ -29,6 +29,7 @@ I work at a company called Waystar and develop a health insurance patient paymen
 
 1. [Portfolio](https://github.com/eventhorizn/portfolio)
    - JavaScript
+   - [Deployed App](https://portfolio.garyhake.dev/)
 3. [Spotify Clone](https://github.com/eventhorizn/spotify-clone)
    - PHP
    - [Deployed App](https://slotify.garyhake.dev/)
@@ -39,6 +40,7 @@ I work at a company called Waystar and develop a health insurance patient paymen
    - [Deployed App](https://forkify.garyhake.dev/)
 6. [Burger Builder](https://burger.garyhake.dev/)
    - React JS
+   - [Deployed App](https://burger.garyhake.dev/)
 7. [General Projects](https://github.com/eventhorizn/projects)
 
 ### Web Development
