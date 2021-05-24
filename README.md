@@ -33,6 +33,10 @@ I work at a company called Waystar and develop a health insurance patient paymen
 3. [Spotify Clone](https://github.com/eventhorizn/spotify-clone)
    - PHP
    - [Deployed App](https://slotify.garyhake.dev/)
+1. [Javascript Notebook](https://github.com/eventhorizn/react-ts-js-notebook)
+   - Typescript
+   - React
+   - [NPM Link](https://www.npmjs.com/package/ghake-jsnote)
 4. [IMDB Clone](https://github.com/eventhorizn/blazor-movies-devops)
    - Blazor
 5. [Recipe Search](https://github.com/eventhorizn/forkify)
