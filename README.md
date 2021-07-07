@@ -54,7 +54,8 @@ I work for Humana Military's health care team (Tricare) as a Lead Developer. I a
 2. [React JS](https://github.com/eventhorizn/react-bootcamp)
 3. [Node JS](https://github.com/eventhorizn/node-js-bootcamp)
 4. [PHP](https://github.com/eventhorizn/spotify-clone)
-5. [Blazor](https://github.com/eventhorizn/blazor-bootcamp)
+5. [Django](https://github.com/eventhorizn/django-bootcamp)
+6. [Blazor](https://github.com/eventhorizn/blazor-bootcamp)
 
 ### PHP
 
