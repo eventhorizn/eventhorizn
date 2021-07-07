@@ -2,7 +2,7 @@
 
 My name is Gary Hake and I'm professionally a .net developer
 
-I work at a company called Waystar and develop a health insurance patient payment system. Pretty similar to a HSA site.
+I work for Humana Military's health care team (Tricare) as a Lead Developer. I am responsible for implementing and supporting 3rd party software into our systems
 
 ## Professional Skills
 
