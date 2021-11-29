@@ -45,6 +45,8 @@ I work for Humana Military's health care team (Tricare) as a Lead Developer. I a
 6. [Burger Builder](https://burger.garyhake.dev/)
    - React JS
    - [Deployed App](https://burger.garyhake.dev/)
+1. [GraphQL Blog](https://github.com/eventhorizn/graph-ql-blog)
+   - [Deployed App](https://gary-hake-blog.herokuapp.com/)
 7. [General Projects](https://github.com/eventhorizn/projects)
 
 ### Web Development
@@ -56,6 +58,7 @@ I work for Humana Military's health care team (Tricare) as a Lead Developer. I a
 4. [PHP](https://github.com/eventhorizn/spotify-clone)
 5. [Django](https://github.com/eventhorizn/django-bootcamp)
 6. [Blazor](https://github.com/eventhorizn/blazor-bootcamp)
+7. [GraphQL](https://github.com/eventhorizn/graphql-bootcamp)
 
 ### PHP
 
@@ -77,7 +80,6 @@ I work for Humana Military's health care team (Tricare) as a Lead Developer. I a
 
 ## TODO
 
-1. [.Net 5 REST API](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio)
 1. [PHP And Docker](https://www.sitepoint.com/docker-php-development-environment/)
 1. Create DO Droplet for .net stack (.net apis and blazor)
 1. [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
@@ -105,3 +107,4 @@ I work for Humana Military's health care team (Tricare) as a Lead Developer. I a
    - Docker Image Storage
 1. [AWS](https://aws.amazon.com/)
 1. [Prisma Cloud](https://app.prisma.io)
+1. [Heroku](https://dashboard.heroku.com/apps)
