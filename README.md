@@ -11,6 +11,11 @@ I work for Humana Military's health care team (Tricare) as a Lead Developer. I a
    - Razor, ASP.net, Blazor
    - JavaScript, CSS, HTML
    - PHP
+   - Javascript Frameworks
+      - Nodejs
+      - Vue
+      - React
+      - Nestjs
 1. Services
    - WCF, web api (REST), soap
 1. Fat client apps
@@ -54,11 +59,16 @@ I work for Humana Military's health care team (Tricare) as a Lead Developer. I a
 1. [JavaScript](https://github.com/eventhorizn/javascript-bootcamp)
 1. [TypeScript](https://github.com/eventhorizn/typescript-bootcamp)
 2. [React JS](https://github.com/eventhorizn/react-bootcamp)
-3. [Node JS](https://github.com/eventhorizn/node-js-bootcamp)
+1. [Vue JS](https://github.com/eventhorizn/vue-bootcamp)
 4. [PHP](https://github.com/eventhorizn/spotify-clone)
 5. [Django](https://github.com/eventhorizn/django-bootcamp)
 6. [Blazor](https://github.com/eventhorizn/blazor-bootcamp)
-7. [GraphQL](https://github.com/eventhorizn/graphql-bootcamp)
+
+### Backend
+
+1. [GraphQL](https://github.com/eventhorizn/graphql-bootcamp)
+1. [Nest JS](https://github.com/eventhorizn/nestjs-bootcamp)
+1. [Node JS](https://github.com/eventhorizn/node-js-bootcamp)
 
 ### PHP
 
